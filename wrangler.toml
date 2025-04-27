@@ -1,5 +1,0 @@
-name = "spacedesk"
-compatibility_date = "2025-04-27"
-
-[site]
-bucket = "./"
